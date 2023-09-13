@@ -1,0 +1,212 @@
+.A {
+    padding-top: 2px;
+    height: 90px;
+    text-indent: 20px;
+    background: rgb(103, 151, 126);
+    position: relative;
+}
+
+.B {
+    padding-left: 100px;
+    padding-top: 40px;
+    background-image: linear-gradient(to bottom, #add2b1, #deecdd,#deecdd, #ffffff);
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: rgb(108, 163, 187);
+}
+
+body {
+
+    height: 0%;
+    padding: 0;
+    margin: 0;
+    font-family: "微軟正黑體", "Calibri", "Helvetica Neue", Helvetica, sans-serif;
+}
+
+#selfie {
+    margin-right: 10%;
+    top: 10px;
+    text-align: center;
+    color: rgb(54, 77, 64);
+
+
+}
+
+#box1 {
+    height: 95px;
+    width: 400px;
+    background: rgb(241, 241, 241);
+    color: dimgray;
+    display: block;
+    padding: 15px;
+}
+
+#box2 {
+    height: 140px;
+    width: 400px;
+    background: rgb(241, 241, 241);
+    color: dimgray;
+    display: block;
+    padding: 15px;
+}
+
+hr {
+    margin-left: 10%;
+    border-style: none;
+    margin-right: 30%;
+    width: 70%;
+    border-top-style: dotted;
+    border-width: 7px;
+    border-color: white;
+}
+
+#contentt {
+    font-size: 14px;
+    text-indent: 30px;
+}
+
+
+#inputt {
+    top: 0;
+    line-height: 28px;
+    font-size: 14px;
+}
+
+.C {
+    margin-top: 10px;
+}
+
+#icon {
+    width: 10px;
+}
+
+.Ending {
+    padding-top: 1px;
+    color:white;
+    text-align: center;
+    text-size-adjust: 10px;
+    height: 60px;
+    background-color: rgb(212, 150, 144);
+}
+
+
+#tdd{
+    text-align: center;
+    width: 120px;
+}
+
+.firstpic {
+    margin-right: 10%;
+    text-align: center;
+
+}
+
+.feedback {
+    font-size: 14px;
+    text-indent: 30px;
+    text-indent: 28px;
+}
+
+#tbtitle {
+    height: 80px;
+    text-align: center;
+    color: rgb(79, 150, 111);
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+}
+
+#tbtitle2 {
+    height: 60px;
+    text-align: center;
+    color: rgb(79, 150, 111);
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+}
+
+#arrow {
+    width: 100px;
+    text-align: center;
+}
+
+#indd{
+    width: 40px;
+    text-align: center;
+}
+
+.addindent {
+    margin-left: 3%;
+}
+
+ul {
+    list-style: square;
+}
+
+#ds {
+   
+    height: 210px;
+    width: 900px;
+    background: rgb(241, 241, 241);
+    color: dimgray;
+    display: block;
+    padding: 15px;
+}
+
+#ds2 {
+   
+    height: 115px;
+    width: 900px;
+    background: rgb(241, 241, 241);
+    color: dimgray;
+    display: block;
+    padding: 15px;
+}
+
+#mainn {
+    height: 150px;
+    width: 900px;
+    background: rgb(241, 241, 241);
+    color: dimgray;
+    display: block;
+    padding: 15px;
+}
+
+#creat {
+    height: 190px;
+    width: 900px;
+    background: rgb(241, 241, 241);
+    color: dimgray;
+    display: block;
+    padding: 15px;
+}
+
+
+#merge {
+    height: 80px;
+    width: 900px;
+    background: rgb(241, 241, 241);
+    color: dimgray;
+    display: block;
+    padding: 15px;
+}
+
+#mergecontent {
+    height: 150px;
+    width: 900px;
+    background: rgb(241, 241, 241);
+    color: dimgray;
+    display: block;
+    padding: 15px;
+}
+
+.ttt {
+    margin-left: 50px;
+}
+
+#nochange{
+    vertical-align: top;
+}
